@@ -10,7 +10,7 @@
 
 Plateforme d'analyse de ventes end-to-end avec pipeline ETL, feature engineering, segmentation RFM, modèles ML (Prophet, Random Forest, KMeans, Isolation Forest) et dashboard interactif Streamlit.
 
-**🚀 [Voir le Dashboard en Ligne](#)** (à ajouter après déploiement)
+**🚀 [Voir le Dashboard en Ligne](https://jeff-ob-smart-sales-platform.streamlit.app/)** (à ajouter après déploiement)
 
 ---
 
