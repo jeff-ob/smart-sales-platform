@@ -336,17 +336,6 @@ pip freeze > requirements.txt
 
 ---
 
-## 🔮 Évolutions futures
-
-- [ ] **Déploiement** : Dockeriser + déployer sur Streamlit Cloud
-- [ ] **API REST** : Exposer les modèles via FastAPI
-- [ ] **Monitoring** : Tracking MLflow pour les modèles
-- [ ] **Features avancées** : Recommandations produits, churn prediction
-- [ ] **Tests** : Tests unitaires (pytest) pour le pipeline ETL
-- [ ] **CI/CD** : GitHub Actions pour tests automatiques
-- [ ] **Documentation** : Générer docs API avec Sphinx
-- [ ] **Optimisation** : Passer à PostgreSQL pour scalabilité
-
 ---
 
 ## 📄 License
@@ -358,9 +347,9 @@ MIT License - voir le fichier LICENSE pour plus de détails
 ## 👤 Auteur
 
 **[Votre Nom]**
-- GitHub: [@username](https://github.com/username)
-- LinkedIn: [Votre Profil](https://linkedin.com/in/username)
-- Email: votre.email@example.com
+- GitHub: [@username](https://github.com/jeff-ob)
+- LinkedIn: [Votre Profil](https://www.linkedin.com/in/jefferson-obanda/)
+- Email: jeffobanda4@gmail.com
 
 ---
 
