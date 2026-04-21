@@ -1,0 +1,43 @@
+__pycache__/
+*.pyc
+.env
+.DS_Store
+.venv/
+venv/
+env/
+
+# Fichiers temporaires
+test_project.py
+verify_deployment.py
+*.log
+
+# Fichiers de développement
+dashboard/app_improved.py
+dashboard/app_v2_improved.py
+dashboard/app_v2.py
+dashboard/pages_improved.py
+ANALYSE_CRITIQUE.md
+CORRECTIONS_APPLIQUEES.md
+AMELIORATIONS_DASHBOARD.md
+PLAN_COMPLET_CORRECTIONS.md
+MISSION_ACCOMPLIE.md
+RESUME_CORRECTIONS.md
+A_LIRE_EN_PREMIER.md
+SESSION_DEPLOIEMENT.md
+STATUT_PROJET.md
+RESUME_FINAL.md
+FICHIERS_CREES.md
+README_DEPLOIEMENT.md
+
+# Fichiers zip
+data/*.zip
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+notebook/.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
