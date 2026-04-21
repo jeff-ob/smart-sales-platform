@@ -346,9 +346,9 @@ MIT License - voir le fichier LICENSE pour plus de détails
 
 ## 👤 Auteur
 
-**[Votre Nom]**
-- GitHub: [@username](https://github.com/jeff-ob)
-- LinkedIn: [Votre Profil](https://www.linkedin.com/in/jefferson-obanda/)
+**[Jefferson OBANDA]**
+- GitHub: [@jeff-ob](https://github.com/jeff-ob)
+- LinkedIn: [Jefferson OBANDA](https://www.linkedin.com/in/jefferson-obanda/)
 - Email: jeffobanda4@gmail.com
 
 ---
