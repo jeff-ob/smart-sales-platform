@@ -154,7 +154,7 @@ Dashboard interactif avec **5 pages** :
 
 ```bash
 # Cloner le repository
-git clone https://github.com/[username]/smart-sales-platform.git
+git clone https://github.com/jeff-ob/smart-sales-platform.git
 cd smart-sales-platform
 
 # Créer un environnement virtuel
